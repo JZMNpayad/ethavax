@@ -1,10 +1,5 @@
 # ethavax
 
-Certainly! Here's a simple README file for your DegenToken contract:
-
-```markdown
-# DegenToken
-
 DegenToken is an ERC-20 token that includes functionalities for managing allowances, tracking inventory, and buying items from a virtual merchant.
 
 ## Table of Contents
