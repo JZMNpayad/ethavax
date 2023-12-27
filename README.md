@@ -7,7 +7,6 @@ DegenToken is an ERC-20 token that includes functionalities for managing allowan
 - [Overview](#overview)
 - [Functionalities](#functionalities)
 - [Usage](#usage)
-- [License](#license)
 
 ## Overview
 
